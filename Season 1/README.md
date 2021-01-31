@@ -38,6 +38,6 @@
 
 ## 6 ^ | 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 You can contact me through:
-	- [Discord](https://discord.gg/mVVuskZq7j)
-	- [Website Coming Soon!]
+- [Discord](https://discord.gg/mVVuskZq7j)
+- [Website Coming Soon!]
 
