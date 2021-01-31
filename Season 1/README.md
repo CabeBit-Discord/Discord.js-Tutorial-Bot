@@ -5,8 +5,7 @@ Here are requirements before you copy my codes:
 
 - 🔭 You must have / Download Visual Studio Code
 - 🌱 You must also have / download Node.js 
-
-- ⚡ After : ...
+- ⚡ Follow the step below! :)
 -->
 <!--
 <table>
