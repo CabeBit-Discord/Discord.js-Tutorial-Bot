@@ -26,7 +26,7 @@
 	- This is the example link = "https://discord.com/api/oauth2/authorize?client_id=805323669160067113&permissions=0&scope=bot"
 	- It will be used to invite your bot in servers.
 	
-## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+## 4 ^ | 🔔 Turn your bot online.
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/Raymo111/kahoot-answer-bot/issues/3) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
 2. 🗣 Commented on [#4](https://github.com/Raymo111/kahoot-answer-bot/issues/4) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
