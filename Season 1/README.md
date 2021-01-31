@@ -1,4 +1,4 @@
-<h3 align="center">🎉 Discord.js V12 Tutorial | Season 1 \🎉 🎉</h3>
+<h3 align="center">🎉 Discord.js V12 Tutorial | Season 1 🎉</h3>
 
 
 Here are requirements before you copy my codes:
