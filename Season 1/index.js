@@ -8,5 +8,4 @@ client.on('ready', () => {
     console.log('I am ready');
 });
 
-
 client.login(token);
