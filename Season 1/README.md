@@ -27,15 +27,12 @@
 	- It will be used to invite your bot in servers.
 	
 ## 4 ^ | 🔔 Turn your bot online.
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Raymo111/kahoot-answer-bot/issues/3) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-2. 🗣 Commented on [#4](https://github.com/Raymo111/kahoot-answer-bot/issues/4) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-3. 🗣 Commented on [#136](https://github.com/Raymo111/i3lock-color/issues/136) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🗣 Commented on [#197](https://github.com/Raymo111/i3lock-color/issues/197) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. 🗣 Commented on [#197](https://github.com/Raymo111/i3lock-color/issues/197) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-<!--END_SECTION:activity-->
+- 🪐 Then after, go back to your Visual Studio Code, make sure you pasted the token to your "config.json".
+- 🍩 Then type "node ." in your terminal, since i put console.log in the code, it will send in the terminal / console that the bot will be online.
+- 🔹 Your bot is now online! It really doesnt do anything yet since we didnt put any kind of command yet, but i will add some commands in the Season 2!
+- 🪙 Your bot should be online as long as you have Visual Studio Code open in your PC. I will also teach you how to make a bot online 24/7 using Heroku.
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
+## 5 ^ | ⁉️ Errors?
 <a href="https://twitter.com/Raym0111" target="_blank">
 	<img src="https://github.com/Raymo111/Raymo111/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
 </a>
