@@ -6,8 +6,8 @@ Here are requirements before you copy my codes:
 - 🔭 You must have / Download Visual Studio Code
 - 🌱 You must also have / download Node.js 
 - ⚡ Follow the step below! :)
--->
-<!--
+
+
 <table>
 	<tr>
 	</tr>
@@ -29,7 +29,7 @@ Here are requirements before you copy my codes:
 		</td>
 	</tr>
 </table>
--->
+
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://edgeprim.com/assets/images/EdgePrim.svg" height="30em" align="center" alt="EdgePrim" title="EdgePrim"/>](https://edgeprim.com)
