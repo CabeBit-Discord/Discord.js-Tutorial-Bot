@@ -1,7 +1,7 @@
 <h3 align="center">🎉 Discord.js V12 Tutorial | Season 1 🎉</h3>
 
 
-## 1 ^ | 🎧 Here are requirements before you copy my codes:
+## 1 ^ | 🎧 Here are requirements before you create a bot:
 
 - 🔭 You must have / download Visual Studio Code
 - 🌱 You must also have / download Node.js 
