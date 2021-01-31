@@ -17,10 +17,10 @@
 - 🎉 Step 6.) Follow the steps below on how to get your bot token and get your bot online.
 
 ##  3 ^ | 📜 Discord Developer Portal
-- 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚊𝚗𝚍 [**𝚖𝚘𝚟𝚒𝚎-𝚍𝚕**](https://github.com/Raymo111/movie-dl).
-- 🎯 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 𝚠𝚘𝚛𝚔 𝚘𝚗 [**𝚎𝚖𝚘𝚓𝚒**](https://github.com/Raymo111/emoji) 𝚎𝚗𝚑𝚊𝚗𝚌𝚎𝚖𝚎𝚗𝚝𝚜 𝚊𝚗𝚍 𝚝𝚑𝚒𝚜 𝚁𝙴𝙰𝙳𝙼𝙴<!--, 𝚊𝚗𝚍 𝚖𝚢 [**𝙺𝚊𝚑𝚘𝚘𝚝 𝙱𝚘𝚝**](https://github.com/Raymo111/kahoot-answer-bot)--> 𝚒𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎.
-- 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
-	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟹𝟼](https://github.com/Raymo111/i3lock-color/issues/136)
+- 🔨 You must have a Discord Accountt, then after go to [Discord Developer Portal](https://discord.com/developers/applications)
+- 🎯 Then create your own application by clicking "New Application", name it anything you want.
+- 🤔 Then after you create an application, in the side menu you will see "Settings", then you will see a "Bot" page then do the following;
+	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟹𝟼]
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159)
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
