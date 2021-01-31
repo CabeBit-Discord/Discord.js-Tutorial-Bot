@@ -1,14 +1,14 @@
 <h3 align="center">🎉 Discord.js V12 Tutorial | Season 1 🎉</h3>
 
 
-Here are requirements before you copy my codes:
+## 1 ^ | Here are requirements before you copy my codes:
 
 - 🔭 You must have / download Visual Studio Code
 - 🌱 You must also have / download Node.js 
 - ⚡ Follow the step below! :)
 
 
-## :book: After you download the requirements do the following:
+## 2 ^ | :book: After you download the requirements do the following:
 - 🖥 Step 1.) Create a folder in your Desktop
 - 💼 Step 2.) Open Visual Studio Code then you will see Open Folder, then click the folder you created in your Desktop
 - 🎓 Step 3.) After open your Terminal (You can see it in the top and click New Terminal) then make sure its set to Command Prompt then do "npm init"
@@ -16,7 +16,7 @@ Here are requirements before you copy my codes:
 - 🌐 Step 5.) Then after, you can insert the files i put, you can copy the "config.json" and "index.js" since "package-lock.json" and "package.json" are automatic when you 	     download "npm init"
 - 🎉 Step 6.) Follow the steps below on how to get your bot token and get your bot online.
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+## 📜 3 ^ | Discord Developer Portal
 - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚊𝚗𝚍 [**𝚖𝚘𝚟𝚒𝚎-𝚍𝚕**](https://github.com/Raymo111/movie-dl).
 - 🎯 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 𝚠𝚘𝚛𝚔 𝚘𝚗 [**𝚎𝚖𝚘𝚓𝚒**](https://github.com/Raymo111/emoji) 𝚎𝚗𝚑𝚊𝚗𝚌𝚎𝚖𝚎𝚗𝚝𝚜 𝚊𝚗𝚍 𝚝𝚑𝚒𝚜 𝚁𝙴𝙰𝙳𝙼𝙴<!--, 𝚊𝚗𝚍 𝚖𝚢 [**𝙺𝚊𝚑𝚘𝚘𝚝 𝙱𝚘𝚝**](https://github.com/Raymo111/kahoot-answer-bot)--> 𝚒𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎.
 - 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
