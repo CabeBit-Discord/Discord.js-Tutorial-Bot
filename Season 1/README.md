@@ -33,11 +33,10 @@
 - 🪙 Your bot should be online as long as you have Visual Studio Code open in your PC. I will also teach you how to make a bot online 24/7 using Heroku.
 
 ## 5 ^ | ⁉️ Errors?
-<a href="https://twitter.com/Raym0111" target="_blank">
-	<img src="https://github.com/Raymo111/Raymo111/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
-</a>
+- If you found any type of errors in the code i gave you, feel free to report it [here](https://github.com/SnowflakesCentral/Discord.js-Tutorial-Bot/issues)!
+- You can also reach me out in my Social Media Account below!
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+## 6 ^ | 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on Instagram"/>](https://linkedin.com/in/Raymo111)
