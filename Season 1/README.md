@@ -3,7 +3,7 @@
 
 Here are requirements before you copy my codes:
 
-- 🔭 You must have / Download Visual Studio Code
+- 🔭 You must have / download Visual Studio Code
 - 🌱 You must also have / download Node.js 
 - ⚡ Follow the step below! :)
 
@@ -11,10 +11,10 @@ Here are requirements before you copy my codes:
 ## :book: After you download the requirements do the following:
 - 🖥 Step 1.) Create a folder in your Desktop
 - 💼 Step 2.) Open Visual Studio Code then you will see Open Folder, then click the folder you created in your Desktop
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚠𝚒𝚝𝚑 𝙲𝚘-𝚘𝚙 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆𝚊𝚝𝚎𝚛𝚕𝚘𝚘, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸𝟻
-- 💻 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚗𝚍 𝙲𝚑𝚒𝚎𝚏 𝙾𝚛𝚐𝚊𝚗𝚒𝚣𝚎𝚛 𝚘𝚏 [<img src="https://youthhax.com/images/yh.png" height="30em" align="center" alt="YouthHax" title="YouthHax"/>](https://edgeprim.com)
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=M&K=Raymo111)
-- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+- 🎓 Step 3.) After open your Terminal (You can see it in the top and click New Terminal) then make sure its set to Command Prompt then do "npm init"
+- 💻 Step 4.) After Step 3, it will download something, after that do "npm install discord.js --save" to download the latest version of DJS (Discord.js)
+- 🌐 Step 5.) Then after, you can insert the files i put, you can copy the "config.json" and "index.js" since "package-lock.json" and "package.json" are automatic when you 	     download "npm init"
+- 🎉 Step 6.) Follow the steps below on how to get your bot token and get your bot online.
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚊𝚗𝚍 [**𝚖𝚘𝚟𝚒𝚎-𝚍𝚕**](https://github.com/Raymo111/movie-dl).
