@@ -20,9 +20,12 @@
 - 🔨 You must have a Discord Accountt, then after go to [Discord Developer Portal](https://discord.com/developers/applications)
 - 🎯 Then create your own application by clicking "New Application", name it anything you want.
 - 🤔 Then after you create an application, in the side menu you will see "Settings", then you will see a "Bot" page then do the following;
-	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟹𝟼]
-	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159)
-
+	- Click "Add Bot" then after copy the Token (**DO NOT SHARE YOUR TOKEN WITH ANYONE**) Then paste it to your "config.json"
+	- Then after you do it, go above the "Bot" Section the settings, its called "OAUTH2" then after, you will see "Scopes" Section
+	- You will see alot of buttons but click the "BoT" Only, then a link will appear, and copy that link and open it on your browser. 
+	- This is the example link = "https://discord.com/api/oauth2/authorize?client_id=805323669160067113&permissions=0&scope=bot"
+	- It will be used to invite your bot in servers.
+	
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/Raymo111/kahoot-answer-bot/issues/3) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
